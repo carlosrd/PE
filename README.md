@@ -1,4 +1,4 @@
-[PE] - Programación Evolutiva (**Evolutionary programming**)
+[EP] - Evolutionary programming
 ==
 
 ## General description
@@ -20,6 +20,8 @@ Genetic programming application to obtain, through evolution, defense strategies
 
 ========================================
 
+[PE] - Programación Evolutiva 
+==
 
 ## Breve descripción
 
